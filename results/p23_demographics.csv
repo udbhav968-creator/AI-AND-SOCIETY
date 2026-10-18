@@ -1,0 +1,9 @@
+,adversarial subset,full test set
+n,24.0,300.0
+mean age,36.8,34.9
+median age,34.0,33.0
+share age ≤25,0.208,0.203
+share female,0.208,0.303
+share foreign worker,1.0,0.967
+mean credit amount (DM),4214.0,3256.0
+mean duration (months),21.7,21.1

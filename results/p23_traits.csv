@@ -1,0 +1,11 @@
+,adversarial (all),conf. false approvals,conf. false rejections,conf. correct approvals,full test set
+checking account not overdrawn (status ≠ <0 DM),0.75,0.9,0.0,0.944,0.75
+loan duration ≤ 24 months,0.708,0.85,0.0,0.866,0.753
+both of the above ('safe-looking' profile),0.625,0.75,0.0,0.81,0.58
+overdrawn account AND duration ≥ 36 months,0.167,0.0,1.0,0.0,0.06
+no checking account at this bank,0.375,0.45,0.0,0.739,0.437
+checking balance 0–200 DM,0.292,0.35,0.0,0.155,0.253
+credit history critical or delayed,0.542,0.65,0.0,0.479,0.367
+job: management / self-employed / highly qualified,0.333,0.25,0.75,0.085,0.15
+"male, married/widowed",0.208,0.25,0.0,0.077,0.087
+housing: for free,0.208,0.2,0.25,0.077,0.12

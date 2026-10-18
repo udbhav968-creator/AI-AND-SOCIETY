@@ -1,0 +1,8 @@
+,train_mean,train_sd
+duration,20.82,12.004
+log_credit_amount,7.778,0.793
+installment_rate,3.011,1.095
+residence_since,2.861,1.102
+age,35.821,11.495
+existing_credits,1.414,0.585
+num_dependents,1.15,0.357
